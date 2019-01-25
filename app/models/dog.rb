@@ -1,7 +1,7 @@
-class Dog 
+class Dog
 
   attr_reader :name, :breed, :age
-  
+
   def initialize
     @name = name
     @breed = breed
