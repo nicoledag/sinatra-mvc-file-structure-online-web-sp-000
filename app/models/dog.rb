@@ -11,6 +11,7 @@ class Dog
   end
 
   self.all
+  binding.pry
     @@all
   end
 
