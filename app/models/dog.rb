@@ -13,5 +13,5 @@ class Dog
   # self.all
   #   @@all
   # end
-  
+
 end
